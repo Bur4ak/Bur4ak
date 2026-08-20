@@ -59,4 +59,4 @@ I am a Computer Engineering graduate specializing in end-to-end product engineer
 
 * 💼 **LinkedIn:** [Burak Yıldırım](https://www.linkedin.com/in/SENIN_LINKEDIN_ADRESIN)
 * ✉️ **Email:** burak23369@gmail.com
-* 📱 **Portfolio:** [Check out my App Store Developer Page](#) *(Buraya App Store geliştirici linkini ekleyebilirsin)*
+* 📱 **Portfolio:** [https://apps.apple.com/us/developer/burak-y%C4%B1ld%C4%B1r%C4%B1m/id1855546820](#)
