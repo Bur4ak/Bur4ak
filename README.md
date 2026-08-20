@@ -2,10 +2,6 @@
 
 <h3 align="center">Software Engineer | Native iOS & React Native | Local AI | C++ & Unreal Engine</h3>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SENIN_GITHUB_KULLANICI_ADIN&label=Profile%20views&color=000000&style=for-the-badge" alt="Profile views" />
-</div>
-
 ---
 
 ### 👨‍💻 About Me
