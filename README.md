@@ -48,6 +48,4 @@
 
 ### 📫 How to reach me
 
-* 💼 LinkedIn: [Burak Yıldırım](#) *(Linkini buraya ekleyebilirsin)*
-* 🐦 X (Twitter): [@KullaniciAdin](#) *(Linkini buraya ekleyebilirsin)*
-* 📧 Email: *E-posta adresini buraya yazabilirsin*
+* 📧 Email: burak23369@gmail.com
