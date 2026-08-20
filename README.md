@@ -2,10 +2,6 @@
 
 **Mobile App Developer | Full-Stack Software Engineer | AI & Computer Vision Enthusiast**
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SENIN_GITHUB_KULLANICI_ADIN&label=Profile%20views&color=5c6bc0&style=flat" alt="Profile views" />
-</div>
-
 ---
 
 ### 💻 About Me
